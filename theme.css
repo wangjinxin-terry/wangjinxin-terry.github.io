@@ -1,11 +1,12 @@
 
-#layout-content{
+#layout-content {
     margin: auto;
-    padding: 10px;
+    padding: 20px 40px; /* 上下 20px，左右 40px 内边距 */
     background: #ffffff;
     border-radius: 0px;
-    width: 1200px;
+    max-width: 1200px;
 }
+
 
 body {
 	font-family: 'Source Sans Pro', sans-serif;
